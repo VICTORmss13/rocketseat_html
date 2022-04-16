@@ -1,19 +1,14 @@
-# rocketseat_html
-Projeto da Rocketseat
+13-04-22
+concluido as 12 aulas do tópico Conceitos.
 
+16-04-22 
+Organizar as informações e conteúdos aqui e no Diario. 
+De forma que o Diario será um acompanhamento mais específico do que foi feito em cada dia 
+e o Anotações deve ter anotações aleatórias, além de ter um tipo de transcrição dos videos do curso. 
 
-Diretorio e documentos sobre o curso da rocketseat sobre html + css + javascript 
-
-
-Vou tentar separar cada modulo do curso em um arquivo diferente. 
-
-A partir de agora vou focar em ver os videos de forma mais rapido, pois tenho pouco tempo diario pra poder reproduzir esses conteudos tão simples. 
-
-DIARIO DOS ESTUDOS A PARTIR DE COMMITS:
-13-04-22 - Novamente estou retornando com os estudos. Agora após uma conversa de mais de 1 hora com um mentor.
-Estudando recomençando os vídeos do Rocketseat -- Discover > Guia Estelar de HTML. Vou apenas ver os videos e depois volto fazendo algumas anotações.
-
-
+Ajustei os arquivos mudando de txt para md. Além de criar novo arquivo Rocketseat2.html para começar novamente o curso. 
+Ajustei também os arquivos Anotações para criar um registro escrito do que ver nos videos e o documento Diario para registrar cada dia. 
+Desta forma quero poder acompanhar mais precisamente o que foi feito em cada dia que eu estudar pra poder avaliar melhor meu progresso e melhorar o que for necessário. 
 
 
 
