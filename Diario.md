@@ -1,3 +1,6 @@
+DIARIO. 
+Objetivo do diário é manter registro do que foi feito em cada dia pra poder acompanhar com detalhes o progresso.
+
 13-04-22
 concluido as 12 aulas do tópico Conceitos.
 
@@ -11,4 +14,11 @@ Ajustei também os arquivos Anotações para criar um registro escrito do que ve
 Desta forma quero poder acompanhar mais precisamente o que foi feito em cada dia que eu estudar pra poder avaliar melhor meu progresso e melhorar o que for necessário. 
 
 Iniciando novamente com os registros do Anotações.md.
+
+19-04-22 
+Seguindo com os estudos. 
+Focando na parte de "Trabalhando com Elementos"
+
+xx-xx-xx
+
 

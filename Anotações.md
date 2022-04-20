@@ -233,16 +233,110 @@ Mostrou a parte de criar documento, pastas, nome de projeto, etc.
 <!--**FIM** 16-04-22->
 
 
-<!--Discover > Guia Estelar de HTML > Trabalhando com Elementos (xx-xx-xx)-->
+<!--Discover > Guia Estelar de HTML > Trabalhando com Elementos (19-04-22)-->
+<!--**inicio**-->
+
+Acompanhei o video "Criando Projetos" do Guia Estelar de HTML > Conceitos.
+
+Nesta parte Foi falado sobre como criar pastas, subpastas e controle dos arquivos do projeto.
+
+Depois prossegui para o "Trabalhando com Elementos"
+
+--> Seguindo falando sobre semantica: 
+- Dar significado 
+- Elementos 
+
+Importante preocupar com a semantica devido aos leitores de tela e ao posicionamento do site nos sites de busca.
+
+--> Cabeçalho e paragrafos:
+Importancia de conseguir ler de uma forma melhor os textos. 
+
+<h1>Sobre mim</h1> (titulo)
+texto vem aqui 
+
+<h2>Nascimento</h2> (outro titulo)
+Outro texto sobre os detalhes do nascimento
+
+<h2>Trablaho</h2> (outro titulo semelhante ao Nascimento)
+Outro texto com mais informações sobre o trabalho 
+
+Normalmente não precisa de mais de um tipo de titulo na mesma pagina (por exemplo um "h3").
+Se esse for o caso, provavelmente seria mais interessante que esta informação fica em outra pagina 
+
+--> Falando agora sobre Listas:
+
+- ordenadas
+- não ordenadas
+
+para gerar listas usamos a tag <li>
+
+para gerar várias de uma vez é só escrever "li*5". Ao dar enter o Emmit completa com as listas da forma abaixo 
+
+<h1> Lista de compras papelaria </h1>
+
+<li>5 lapis</li>
+<li>5 canetas</li>
+<li>2 cadernos</li>
+<li>5 borrachas</li>
+<li>3 apontadores</li>
 
 
+Importante colocar cada elemento da lista em uma lista ordenada(ol) ou não ordenada(ul). 
 
 
+<ol>
+  <li>5 lapis</li>
+  <li>5 canetas</li>
+  <li>2 cadernos</li>
+  <li>5 borrachas</li>
+  <li>3 apontadores</li>
+</ol>
+
+<ul>
+  <li>5 lapis</li>
+  <li>5 canetas</li>
+  <li>2 cadernos</li>
+  <li>5 borrachas</li>
+  <li>3 apontadores</li>
+</ul>
 
 
+--> Citações:
+
+  <Blockquote>
+  <cite>
+  <q>
+
+Exemplos:
 
 
+BLOCKQUOTE::
+<blockquote cite="https://urlx.com">
+  0 <strong>Elemento HTML <code>&lt;blockquote&gt;</code>
+  </strong> (ou <em> HTML Block
+  Quotation Element</em>) indica que um texto externo foi citado.
+</blockquote>
+
+tag <code> deixa com uma cor diferente, no caso fica laranja 
+tag <&lt;> e <&gt;> para deixar os caracteres antes e depois da palavra blockquote no caso acima 
+
+CITE::
+<p>De acordo com <a href="algum link">
+  <cite>página MDN blockquote</cite></a>:
+</p>
+
+q::
+
+<p>O elemento quote - <code>&lt;q&gt;</code> - é <q
+cite= "trecho citado">usado para citações curtas que não precisam de parágrafos ou quebras de linha.
+</q> -- <a href="outra referencia">
+<cite>MDN q page</cite></a>.</p>
 
 
+<!--**FIM** 19-04-22->
+
+
+<!--Discover > Guia Estelar de HTML > Trabalhando com Elementos (xx)-->
+<!--**inicio**-->
 
 
