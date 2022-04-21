@@ -17,8 +17,18 @@ Iniciando novamente com os registros do Anotações.md.
 
 19-04-22 
 Seguindo com os estudos. 
-Focando na parte de "Trabalhando com Elementos"
+Focando na parte de "Trabalhando com Elementos".
+Parei em Citações.
+
+20-04-22 
+Seguindo com os estudos.
+Focando na parte de "Trabalhando com Elementos".
+- Abreviações
+- Detalhes de contato
+- Lista de descrição
+- Representação de código
+- Elementos Genéricos
+
 
 xx-xx-xx
-
 

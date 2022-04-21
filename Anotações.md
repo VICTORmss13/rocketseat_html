@@ -336,7 +336,97 @@ cite= "trecho citado">usado para citações curtas que não precisam de parágra
 <!--**FIM** 19-04-22->
 
 
-<!--Discover > Guia Estelar de HTML > Trabalhando com Elementos (xx)-->
+<!--Discover > Guia Estelar de HTML > Trabalhando com Elementos > Abreviações (20-04-22)-->
 <!--**inicio**-->
+
+--> Abreviações 
+
+<abbr>
+
+<p> Usamos <abbr title="Hypertext Markup Language">HTML 
+</abbr> para estruturar nossos documentos da web.</p>
+
+Desta forma, quando descansar o mouse sobre a sigla, o nome completo aparece.
+
+
+
+--> Detalhes de contato 
+
+<address>
+
+Contato de quem fez a pagina HTML 
+
+<address>
+  <p> Mayk Brito <br>
+  <strong> Campo Grande, MS</strong></p>
+</address>
+
+
+--> lista de descrição 
+
+<dl>
+  <dt></dt>
+  <dd></dd>
+</dl>
+
+dl = description list
+dt = description term
+dd = description definition
+
+Listas de descrição tem como objetivo marcar um conjunto de itens e suas descrições.
+
+
+<h2>Glossário</h2>
+<dl>
+  <dt>Hypertext</dt>
+  <dd>É um hiper texto com possibilidades...</dd>
+  
+  
+  <dt>Markup</dt>
+  <dd>Marcacao do texto</dd>
+
+
+  <dt>Language</dt>
+  <dd>Linguagem com semantica e sintaxe propria</dd>
+<dl>
+
+
+
+--> Representação de codigo
+
+<code>
+  Partes genéricas de código
+
+<pre>
+  Blocos de codigo, pois essa tag mantém os espaços em 
+  branco e recuos que eu colocar no meu código
+
+Obs: cuidado com o uso da tag "<xmp>" pois não está mais em uso.
+
+
+
+--> Elementos Genericos 
+
+  * <div>
+  * <span>
+
+Elementos para podermos agrupar conteudos e outro para podermos agrupar texto.
+
+<div class="cart">
+<!--Um texto qualquer (produto)-->
+  <span>Camiseta</span> 
+  <span>R$ 99,00</span>
+</div>
+
+Necessário entender sobre div pra pdoer usar no CSS e no Javascript 
+
+
+<!--**FIM** 20-04-22->
+
+
+
+
+
+
 
 
