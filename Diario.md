@@ -4,6 +4,7 @@ Objetivo do diário é manter registro do que foi feito em cada dia pra poder ac
 13-04-22
 concluido as 12 aulas do tópico Conceitos.
 
+
 16-04-22 
 Organizar as informações e conteúdos aqui e no Diario. 
 De forma que o Diario será um acompanhamento mais específico do que foi feito em cada dia 
@@ -20,6 +21,7 @@ Seguindo com os estudos.
 Focando na parte de "Trabalhando com Elementos".
 Parei em Citações.
 
+
 20-04-22 
 Seguindo com os estudos.
 Focando na parte de "Trabalhando com Elementos".
@@ -28,6 +30,10 @@ Focando na parte de "Trabalhando com Elementos".
 - Lista de descrição
 - Representação de código
 - Elementos Genéricos
+
+
+23-04-22 
+Revisão dos textos 
 
 
 xx-xx-xx

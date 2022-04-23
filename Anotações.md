@@ -418,7 +418,7 @@ Elementos para podermos agrupar conteudos e outro para podermos agrupar texto.
   <span>R$ 99,00</span>
 </div>
 
-Necessário entender sobre div pra pdoer usar no CSS e no Javascript 
+Necessário entender sobre div pra poder usar no CSS e no Javascript 
 
 
 <!--**FIM** 20-04-22->
