@@ -427,6 +427,55 @@ Necessário entender sobre div pra poder usar no CSS e no Javascript
 
 
 
+<!-Discover > Guia Estelar de HTML > Links > Conhecendo a tag âncora (24-04-22)-->
+<!--**inicio**-->
 
+--> Conhecendo a tag âncora
+
+Hyperlinks - Elemento Âncora: <a>
++ Anatomia 
++Atributos:
+  - globais 
+  - href
+    - para onde iremos, quando clicarmos no link:
+      - url completa
+      - fragmento
+      - email
+      - telefone 
+      - e outros.
+  - download
+  - target
+    - _self (padrão)
+    - _blank
+
+
+A tag <a> (ancora) é responsavel por fazer a ligação entre as diversão paginas
+
+<a href="(endereço de direcionamento)">Conteúdo</a>
+
+<a href="http://google.com" target="_blank">Google</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--**FIM** 24-04-22->
 
 
