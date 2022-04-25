@@ -421,13 +421,10 @@ Elementos para podermos agrupar conteudos e outro para podermos agrupar texto.
 Necessário entender sobre div pra poder usar no CSS e no Javascript 
 
 
-<!--**FIM** 20-04-22->
+<!--**FIM** 20-04-22 -->
 
 
-
-
-
-<!-Discover > Guia Estelar de HTML > Links > Conhecendo a tag âncora (24-04-22)-->
+<!--Discover > Guia Estelar de HTML > Links > Conhecendo a tag âncora (24-04-22)-->
 <!--**inicio**-->
 
 --> Conhecendo a tag âncora
@@ -455,27 +452,127 @@ A tag <a> (ancora) é responsavel por fazer a ligação entre as diversão pagin
 
 <a href="http://google.com" target="_blank">Google</a>
 
+essa opção "target" faz com que seja aberta uma nova guia ao clicar no link e não ocorrer apenas um simples redirecionamento.
 
 
 
+--> Utilizando a tag âncora:
+
+Outros exemplos:
+
+<p> Encontre-me:</p>
+
+<ul>
+  <li><a href="http://rocketseat.com.br">Website</a></li>
+  <li><a href="mailto?mayk@rocketseat.com.br">Email</a></li>
+  <li><a href="tel?+5511998887766">Telefone</a></li>
+</ul>
 
 
 
+Agora um exemplo sobre fragmento:
+
+<p>Saiba mais</p>
+
+<ul>
+  <li><a href="#about">Sobre mim</a></li>
+  <li><a href="#history">História</a></li>
+  <li><a href="#works">Trabalhos</a></li>
+</ul>
 
 
 
+<h1 id="about">Sobre mim<h1>
+Texto sobre mim aqui
+
+<h2 id="history">História</h2>
+Texto sobre minha história
+
+<h2 id="works">Trabalhos</h2>
+Texto sobre meus trabalhos
 
 
 
+--> Conteúdos dentro de elemento:
+
+Conteúdo dos hyperlinks
+- qualquer conteúdo
+
+É possível colocar qualquer conteúdo dentro dos hyperlinks
+
+A opção da frase quando usuário "descansa" o mouse no link e 
+mostra uma frase não ocorre no caso de dispositivo touchscreen
+
+
+ <a href="http://google.com" title="Ir para google">
+    <h1>Google</h1>
+   
+</a>
 
 
 
+Exemplo com imagem: 
+
+ <a href="http://google.com" title="Ir para google">
+    <h1>Google</h1>
+    <p>Claro que posso</p>
+    <img src="https://source.unsplash.com/random" alt="">
+</a>
 
 
 
+--> Caminhos e URLs:
+
+URLs e Caminhos dos arquivos
+
+- Uniform Resource Locator
+  - https://www.rocketseat.com.brS
+  - Sequência de texto que define onde algo está localizado na web
+
+- URLs usam caminhos para encontrar arquivos
+
+- Caminhos dos arquivos
+  - Onde, no explorador de arquivos, um recurso está localizado
+
+Exemplo:
+
+<a href="Diario.md">Abrir arquivo 'Diario.md'</a> 
+
+Desta forma o Visual Studio Code vai abrir o arquivo 'Anotações.md', por estar dentro na pasto do projeto.
+
+É possível também usar os atributos normais, como usado o exemplo "target".
+
+--> Como navegar pelos diretórios:
 
 
+Como navegar pelos caminhos?
+- mesmo diretório
+- entrando em diretórios
+- saindo de diretórios
+- diretório raiz (root ou pai)
 
-<!--**FIM** 24-04-22->
+<a href="Diario.md">abrir arquivo diario</a>
+
+Para entrar em outro diretório é só adicionar o endereço:
+
+<a href="Rocketseat_html/Diario.md">abrir arquivo diario na pasta rocketseat</a>
+
+Neste caso o VS Code abriria a pasta (diretório) 'Rocketseat_html' e 
+procuraria e abriria o documento 'Diario.md'.
+
+
+Pra sair da pasta:
+
+<a href="../pasta-em-que-quero-pegar-o-arquivo/Diario.md">sair da pasta e abrir arquivo que esta em outra pasta</a>
+
+<a href="./Diario.md">abrir arquivo no diretorio atual (root)</a>
+ou 
+<a href="Diario.md">abrir arquivo no diretorio atual (root)</a>
+
+obs: Se não colocar os pontos no href vai ficar dando erro, 
+porque não vai entender que tem que ir até aquele caminho e vai buscar por um documento com o nome do caminho mencionado.
+
+
+<!--**FIM** 24-04-22
 
 

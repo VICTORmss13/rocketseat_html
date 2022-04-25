@@ -38,3 +38,7 @@ Revisão dos textos
 
 24-04-22
 Começando a parte de "Links"
+
+Parei na parte "Guia Estelar de HTML> Links> Caminhos absolutos vs relativos"
+
+xx-xx-xx
