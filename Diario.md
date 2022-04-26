@@ -41,4 +41,5 @@ Começando a parte de "Links"
 
 Parei na parte "Guia Estelar de HTML> Links> Caminhos absolutos vs relativos"
 
-xx-xx-xx
+26-04-22
+Continuando "Guia Estelar de HTML> Links> Caminhos absolutos vs relativos"

@@ -573,6 +573,26 @@ obs: Se não colocar os pontos no href vai ficar dando erro,
 porque não vai entender que tem que ir até aquele caminho e vai buscar por um documento com o nome do caminho mencionado.
 
 
-<!--**FIM** 24-04-22
+<!--**FIM** 24-04-22-->
 
 
+<!--Discover > Guia Estelar de HTML > Links > Conhecendo a tag âncora (26-04-22)-->
+<!--**inicio**-->
+
+URLs absolutos versus relativos 
+
+  -Absolutos
+    - Inclui protocolo e nome de domínio
+      - htpp://www.rocketseat.com.br/projeto/index.html
+    - sempre apontará para o mesmo local, pois é absoluto
+
+  -Relativos
+    - relativo à página aberta no momento 
+    - apontará para lugares diferentes 
+
+
+<a href="google.com"> relativo: Ir para google presente no diretório atual</a>
+<a href="https://google.com"> absoluto: Ir para google presente na internet</a>
+
+
+<!--**FIM** 26-04-22-->
