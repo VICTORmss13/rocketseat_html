@@ -46,7 +46,8 @@ Continuando "Guia Estelar de HTML> Links> Caminhos absolutos vs relativos"
 
 02-05-22 
 
-Fazendo o exercício e seguindo para próximo tópico:
+Fazendo o exercício. Fiquei com dúvidas. Demorei pra conseguir entender sobre as pastas do WSL. 
+Agora falta formatar o conteúdo dos arquivos .html 
 
 Começando "Guia Estelar de HTML > Tabelas"
 
