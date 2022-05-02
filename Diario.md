@@ -43,3 +43,19 @@ Parei na parte "Guia Estelar de HTML> Links> Caminhos absolutos vs relativos"
 
 26-04-22
 Continuando "Guia Estelar de HTML> Links> Caminhos absolutos vs relativos"
+
+02-05-22 
+
+Fazendo o exercício e seguindo para próximo tópico:
+
+Começando "Guia Estelar de HTML > Tabelas"
+
+
+
+
+
+
+
+
+
+
