@@ -662,9 +662,42 @@ Terminando de fazer os exercícios.
 
 Começando com "Guia Estelar de HTML > Tabelas > Tabelas"
 
+--> Tabelas
 
+<table>
 
+Prós 
+  - Visualização de dados via linhas e colunas 
+  - Boa acessibilidade para leitura dos dados 
 
+Contras 
+  - Pouco flexível 
+  - Precisa de estilização para melhor visualização 
+
+Não usar 
+  - Para criar layout 
+
+--> Tabela básica 
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Idade</th>
+
+  </tr>
+
+  <tr>
+    <td>Victor</td>
+    <td>27</td>
+
+  </tr>
+  
+  <tr>
+    <td>Lucas</td>
+    <td>22</td>
+
+  </tr>
+</table>
 
 
 <!--**FIM** 03-05-22-->

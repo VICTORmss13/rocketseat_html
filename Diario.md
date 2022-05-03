@@ -58,7 +58,9 @@ Voltei para a resolução dos exercícios dos links pra poder realizar.
 Continuei para "Guia Estelar de HTML > Tabelas"
 
 
+xx-xx-xx
 
+Continuando "Guia Estelar de HTML > Tabelas > Organizando Tabelas"
 
 
 
