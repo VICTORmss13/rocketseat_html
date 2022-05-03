@@ -651,3 +651,20 @@ Bom exercício.
 
 
 <!--**FIM** 02-05-22-->
+
+
+
+
+<!--Discover > Guia Estelar de HTML > Links > Exercício de apresentação (03-05-22)-->
+<!--**inicio**-->
+
+Terminando de fazer os exercícios. 
+
+Começando com "Guia Estelar de HTML > Tabelas > Tabelas"
+
+
+
+
+
+
+<!--**FIM** 03-05-22-->

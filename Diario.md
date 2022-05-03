@@ -51,7 +51,11 @@ Agora falta formatar o conteúdo dos arquivos .html
 
 Começando "Guia Estelar de HTML > Tabelas"
 
+03-05-22 
 
+Voltei para a resolução dos exercícios dos links pra poder realizar. 
+
+Continuei para "Guia Estelar de HTML > Tabelas"
 
 
 
