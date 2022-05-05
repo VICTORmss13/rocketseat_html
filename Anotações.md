@@ -747,10 +747,78 @@ Explicação sobre as tags thead, tbody, tfoot, caption.
 <!--**FIM** 04-05-22-->
 
 
-<!--Discover > Guia Estelar de HTML > xxx > xxxxxxxxxxxxx (xx-xx-xx)-->
+<!--Discover > Guia Estelar de HTML > xxx > xxxxxxxxxxxxx (05-05-22)-->
 <!--**inicio**-->
 
-<!--**FIM** xx-xx-xx -->
+--> Tabela complexa 
+
+  2 lojas 
+    Quantos produtos foram produzidos, quantos vendidos e agrupado por nome dos produtos
+
+<table>
+
+  <caption> Produtos x Vendidos por Loja</caption>
+
+  <colgroup>
+    <col>
+    <col span="2" style="background-color: red">
+    <col span="2" style="background-color: blue">
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th colspan="2" scope="colgroup">Afonso Pena</th>
+      <th colspan="2" scope="colgroup">Antonio</th>
+    </tr>
+
+    <tr>
+      <th scope="col">Produzidos</th>
+      <th scope="col">Vendidos</th>
+      <th scope="col">Produzidos</th>
+      <th scope="col">Vendidos</th>
+
+
+    <tr>
+
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Vassouras</th>
+      <td>50</td>
+      <td>30</td>
+      <td>20</td>
+      <td>20</td>
+    </tr>
+
+    <tr>
+      <th scope="row">Baldes</th>
+      <td>50</td>
+      <td>30</td>
+      <td>20</td>
+      <td>20</td>
+      
+    </tr>
+
+  </tbody>
+
+
+</table>
+
+--> Thead complexo 
+--> Tbody complexo 
+--> Melhorando o aspecto com o colgroup
+--> Melhorando acessibilidade
+
+
+COMEÇANDO SUBTEMA CABEÇALHO
+
+--> Head
+
+
+
+
+<!--**FIM** 05-05-05 -->
 
 
 
