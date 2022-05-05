@@ -655,7 +655,7 @@ Bom exercício.
 
 
 
-<!--Discover > Guia Estelar de HTML > Links > Exercício de apresentação (03-05-22)-->
+<!--Discover > Guia Estelar de HTML > Tabelas > Tabelas (03-05-22)-->
 <!--**inicio**-->
 
 Terminando de fazer os exercícios. 
@@ -701,3 +701,56 @@ Não usar
 
 
 <!--**FIM** 03-05-22-->
+
+
+
+<!--Discover > Guia Estelar de HTML > Tabelas > Organizando Tabelas (04-05-22)-->
+<!--**inicio**-->
+
+--> Organizando Tabelas 
+
+Explicação sobre as tags thead, tbody, tfoot, caption.
+
+<table>
+  <caption> Descrção da tabela. No caso, temos nomes e idade.  </caption>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Idade</th>
+
+    </tr>
+  </thead>
+  
+  <tbody> 
+    <tr>
+      <td>Victor</td>
+      <td>27</td>
+    </tr>
+    
+    <tr>
+      <td>Lucas</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+
+  <tfoot>
+    <tr>
+      <td>Total: 2 pessoas
+      </td>
+    </tr>
+  </tfoot>
+
+</table>
+
+
+
+<!--**FIM** 04-05-22-->
+
+
+<!--Discover > Guia Estelar de HTML > xxx > xxxxxxxxxxxxx (xx-xx-xx)-->
+<!--**inicio**-->
+
+<!--**FIM** xx-xx-xx -->
+
+
+
