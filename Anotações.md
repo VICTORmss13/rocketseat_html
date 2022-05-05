@@ -747,7 +747,7 @@ Explicação sobre as tags thead, tbody, tfoot, caption.
 <!--**FIM** 04-05-22-->
 
 
-<!--Discover > Guia Estelar de HTML > xxx > xxxxxxxxxxxxx (05-05-22)-->
+<!--Discover > Guia Estelar de HTML > Tabelas > Tabela complexa (05-05-22)-->
 <!--**inicio**-->
 
 --> Tabela complexa 
@@ -815,10 +815,94 @@ COMEÇANDO SUBTEMA CABEÇALHO
 
 --> Head
 
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  </head>
 
 
+--> Meta
+
+  <meta>
+
+  Atributos 
+    -charset
+    -name
+    -content
+
+<head>
+  <!-- codificacão de caracteres especiais -->
+  <meta charset="UTF-8">
+
+  <!-- portabilidade para dispositivos mobiles -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+--> favicon
+
+  <link> para ícones personalizados
+
+<!-- favicon básico -->
+<link rel="icon" href="pagina onde esta o item ">
+
+<!-- favicon não básico (iPhone não-Retina, iPod Touch e dispositivos Android 2.1+:) -->
+<link rel="apple-touch-icon-precomposed" href="paina com o item .png">
+
+<!-- iPad de primeira e segunda geração -->
+<link rel="apple-touch-icon" sizes="48x48" href="pagina com o item 48">
+<link rel="apple-touch-icon" sizes="72x72" href="pagina com o item 72">
+<link rel="apple-touch-icon" sizes="96x96" href="pagina com o item 96">
+
+<!-- iPhone com tela retina de alta resolução: -->
+<link rel="apple-touch-icon" sizes="144x144" href="pagina com o item 144">
+
+<!-- Mesmo ocorre com outros tipos de iphone -->
+
+Observação: Estes icones são adicionados através de framework, 
+mas devemos saber pra poder gerenciar melhor o codigo.
+
+--> Mata SEO 
+
+<meta>
+  -charset
+  -viewport
+  -author
+  -description
+  -robots
+
+
+  <head>
+    <!-- SEO: Search Engine Optimization (motores de busca = Google) -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Victor Mendes">
+    <meta name="description" content="Anotações dos meus estudos sobre HTML">
+    <meta name="robots" content="index, nofollow">
+
+
+--> Meta Social  
+
+<meta> para redes sociais
+
+<head>
+  <!-- Open Graph: Facebook -->
+  <meta property="og:image" content="link da imagem que vai ser mostrada quando compartilhar no facebook">
+  <meta property="og:description" content="Texto com a descrição para mostrar quando compartilhar no facebook">
+  <meta property="og:title" content="Título para ser mostrado quando compartilhar no facebook">
+
+  <!-- twitter -->
+  <meta name="twitter:title" content="Título para ser mostrado quando compartilhar no twitter">
+
+</head>
 
 <!--**FIM** 05-05-05 -->
 
 
+<!--Discover > Guia Estelar de CSS > Abertura (xx-xx-xx)-->
+<!--**inicio**-->
 
+<!--**FIM** xx-xx-xx -->

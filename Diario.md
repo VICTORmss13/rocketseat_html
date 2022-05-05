@@ -66,6 +66,10 @@ Terminando "Guia Estelar de HTML > Tabelas > Organizando Tabelas"
 
 Começando "Guia Estelar de HTML > Cabeçalho > Head"
 
+Terminei o "Guia Estelar de HTML"
+
+Começando "o Guia estelar de CSS"
+
 xx-xx-xx
 
 
