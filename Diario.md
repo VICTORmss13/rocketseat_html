@@ -79,6 +79,8 @@ Alterei o nome de alguns arquivos pra poder acompanhar melhor os arquivos na pas
 - Anotações.md virou Anotações_GuiaHTML.md 
 - Criei um novo arquivo .md chamado Anotações_GuiaCSS.md para poder seguir com as anotações.
 
+Parei em "Guia Estelar de CSS > A Cascata"
+
 xx-xx-xx
 
 

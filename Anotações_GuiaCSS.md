@@ -118,9 +118,16 @@ Pegou através do "font-family: 'Ranchers', 'cursive;"
 Disse que deve-se dar preferência ao uso do <link>
 
 
---> A Cascata: 
+--> A Cascata (Cascading): 
 
+É a escolha do browser de qual regra aplicar, caso haja muitas regras para o mesmo elemento.
+*Seu estilo é lido de cima para baixo. 
+É levado em consideração 3 fatores
+  - Origem do estilo
+  - Especificidade
+  - Importância
 
+  
 
 --> Especificidade:
 --> Regra importante:
