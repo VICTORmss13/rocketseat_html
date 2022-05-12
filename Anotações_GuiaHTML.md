@@ -902,7 +902,3 @@ mas devemos saber pra poder gerenciar melhor o codigo.
 <!--**FIM** 05-05-05 -->
 
 
-<!--Discover > Guia Estelar de CSS > Abertura (xx-xx-xx)-->
-<!--**inicio**-->
-
-<!--**FIM** xx-xx-xx -->

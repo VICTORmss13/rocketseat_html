@@ -68,7 +68,16 @@ Começando "Guia Estelar de HTML > Cabeçalho > Head"
 
 Terminei o "Guia Estelar de HTML"
 
-Começando "o Guia estelar de CSS"
+Começando "o Guia Estelar de CSS"
+
+12-05-22 
+Começando o Módulo "Guia Estelar de CSS"
+
+Alterei o nome de alguns arquivos pra poder acompanhar melhor os arquivos na pasta do projeto 
+"ROCKETSEAT_HTML" 
+
+- Anotações.md virou Anotações_GuiaHTML.md 
+- Criei um novo arquivo .md chamado Anotações_GuiaCSS.md para poder seguir com as anotações.
 
 xx-xx-xx
 
