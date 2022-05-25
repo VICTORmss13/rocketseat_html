@@ -81,6 +81,9 @@ Alterei o nome de alguns arquivos pra poder acompanhar melhor os arquivos na pas
 
 Parei em "Guia Estelar de CSS > A Cascata"
 
+25-05-22
+Voltando aos estudos novamente com a aula "Guia Estelar de CSS > A Cascata"
+
 xx-xx-xx
 
 
