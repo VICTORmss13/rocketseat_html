@@ -84,6 +84,13 @@ Parei em "Guia Estelar de CSS > A Cascata"
 25-05-22
 Voltando aos estudos novamente com a aula "Guia Estelar de CSS > A Cascata"
 
+26-05-22
+Continuando com "Guia Estelar de CSS > A Cascata"
+
+A partir de hoje meu intuito vai ser tentar seguir assistindo as aulas e tentar reproduzir oque for mostrado no momento de algum projeto ou em outro momento oportuno durante o proprio curso. 
+
+Parei em Especificidade.
+
 xx-xx-xx
 
 

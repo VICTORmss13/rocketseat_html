@@ -168,3 +168,12 @@ inline > tag style > tag link
 
 <!--**FIM** 25-05-22->
 
+<!--Discover > Guia Estelar de CSS > A Cascata (25-05-22)
+**inicio**-->
+
+A partir de hoje meu intuito vai ser tentar seguir assistindo as aulas e tentar reproduzir oque for mostrado no momento de algum projeto ou em outro momento oportuno durante o proprio curso. 
+
+O termo de Cascata ocorre porque a leitura e aplicação segue a ordem de cascata (de cima pra baixo)
+ou do mais antigo para o mais recente.
+
+<!--**FIM** 25-05-22->
