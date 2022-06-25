@@ -91,6 +91,12 @@ A partir de hoje meu intuito vai ser tentar seguir assistindo as aulas e tentar 
 
 Parei em Especificidade.
 
+25-05-22 
+Volta aos estudos. Continuando com "O guia estelar de CSS > Especificidade"
+
+Conclui a parte do "guia estelar de CSS"
+
+Iniciar "Nem tudo são pixels"
 xx-xx-xx
 
 
